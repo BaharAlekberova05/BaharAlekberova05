@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a Frontend Developer passionate about building user-friendly web applications. I love working with React, Next.js, and Tailwind CSS.
+My portfolio: https://bahar-alekberova.vercel.app/
 
 
 ## 🌐 Socials:
